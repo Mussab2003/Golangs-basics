@@ -1,4 +1,4 @@
-module web-server
+module github.com/Mussab2003/Golangs-basics/web-app
 
 go 1.25.0
 
